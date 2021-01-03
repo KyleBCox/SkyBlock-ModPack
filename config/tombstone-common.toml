@@ -69,6 +69,9 @@
 	#Chance for killing a raider [0..100|default:30]
 	#Range: 0 ~ 100
 	chance_kill_raider = 30
+	#Points for Pray of Protection [0..50|default:2]
+	#Range: 0 ~ 50
+	points_pray_of_protection = 2
 
 #Miscellaneous options
 [general]
@@ -111,8 +114,8 @@
 	log_siege_state = false
 	#Allows to use the positions of creative players to define the siege location [false/true|default:true]
 	allow_creative_players_for_siege = true
-	#Delay in seconds for a second test of siege when the first failed [0..2400|default:600]
-	#Range: 0 ~ 2400
+	#Delay in seconds for a second test of siege when the first failed [0..1200|default:200]
+	#Range: 0 ~ 1200
 	delay_siege_test = 600
 	#The creatures of the siege have a glowing effect (only uses this for test purposes) [false/true|default:false]
 	glowing_creature_test = false

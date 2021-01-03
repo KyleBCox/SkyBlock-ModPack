@@ -31,7 +31,7 @@
 [enchantments]
 	#Enables the enchantment Plague Bringer [false/true|default:true]
 	enable_enchantment_plague_bringer = true
-	#Max level for Plague Bringer [1..10|default:3]
+	#Max level for Plague Bringer [1..10|default:5]
 	#Range: 1 ~ 10
 	max_level_plague_bringer = 3
 	#Enables the enchantment Shadow Step [false/true|default:true]
