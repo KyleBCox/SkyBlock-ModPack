@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "morecauldrons:acacia_cauldron",
+		"morecauldrons:dark_oak_cauldron",
+		"morecauldrons:birch_cauldron",
+		"morecauldrons:jungle_cauldron",
+		"morecauldrons:oak_cauldron",
+		"morecauldrons:spruce_cauldron"
+    ]
+}

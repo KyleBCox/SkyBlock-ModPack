@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.torch",
+  "colors": [
+    "fcd500",
+    "3c2f1d"
+  ],
+  "ingredient": {
+    "item": "minecraft:torch"
+  }
+}

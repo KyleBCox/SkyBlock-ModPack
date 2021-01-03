@@ -1,0 +1,24 @@
+{
+	id: 2,
+	filename: "mob_killing",
+	order_index: 1,
+	title: "Mob killing",
+	default_quest_shape: "",
+	quests: [{
+		x: -1.0d,
+		y: -0.5d,
+		id: 3,
+		tasks: [{
+			id: 4,
+			type: "kill",
+			entity: "minecraft:zombie",
+			value: 15L
+		}],
+		rewards: [{
+			id: 5,
+			type: "item",
+			item: "minecraft:iron_ingot",
+			count: 3
+		}]
+	}]
+}

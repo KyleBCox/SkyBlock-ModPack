@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "R  ",
+    " R ",
+	"  R"
+  ],
+  "key": {
+    "R": {
+      "item": "botania:living_root"
+    }
+  },
+  "result": {
+    "item": "minecraft:dark_oak_sapling"
+  }
+}
