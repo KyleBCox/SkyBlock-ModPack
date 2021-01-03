@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.orange_dye",
+  "colors": [
+    "fe6c00",
+    "fe6c00"
+  ],
+  "ingredient": {
+    "item": "woot:orange_dyeplate"
+  }
+}

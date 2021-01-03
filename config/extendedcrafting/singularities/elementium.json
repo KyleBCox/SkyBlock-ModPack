@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.elementium",
+  "colors": [
+    "ea3297",
+    "ea3297"
+  ],
+  "ingredient": {
+    "item": "botania:elementium_ingot"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.yellow_dye",
+  "colors": [
+    "ffff00",
+    "ffff00"
+  ],
+  "ingredient": {
+    "item": "woot:yellow_dyeplate"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.pink_dye",
+  "colors": [
+    "fd5da8",
+    "fd5da8"
+  ],
+  "ingredient": {
+    "item": "woot:pink_dyeplate"
+  }
+}

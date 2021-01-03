@@ -1,0 +1,17 @@
+saves/
+logs/
+.mixin.out/
+natives/
+local/
+emojiful/
+ESM/
+backups/
+scripts/
+woot/
+patchouli_data.json
+realms_persistance.json
+BotaniaVars.dat
+reauth.toml
+usercache.json
+usernamecache.json
+TrashSlotSaveState.json

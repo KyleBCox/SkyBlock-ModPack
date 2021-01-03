@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.alfsteel",
+  "colors": [
+    "fca400",
+    "fca400"
+  ],
+  "ingredient": {
+    "item": "botania:alfsteel_ingot"
+  }
+}

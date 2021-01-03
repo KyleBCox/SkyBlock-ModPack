@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.cheese",
+  "colors": [
+    "e8be35",
+    "e8be35"
+  ],
+  "ingredient": {
+    "item": "pamhc2foodcore:cheeseitem"
+  }
+}
