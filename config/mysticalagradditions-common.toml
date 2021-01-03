@@ -36,9 +36,9 @@
 	#Range: 0 ~ 128
 	endInferiumSpawnHeight = 100
 	#Should Nether Prosperity Ore generate in the world?
-	generateNetherProsperityOre = true
+	generateNetherProsperityOre = false
 	#Should Nether Inferium Ore generate in the world?
-	generateNetherInferiumOre = true
+	generateNetherInferiumOre = false
 	#The maximum Y level that Prosperity Ore veins can spawn.
 	#Range: 0 ~ 128
 	endProsperitySpawnHeight = 100
@@ -58,5 +58,5 @@
 	#Range: 0 ~ 128
 	netherProsperitySpawnHeight = 100
 	#Should End Inferium Ore generate in the world?
-	generateEndInferiumOre = true
+	generateEndInferiumOre = false
 
