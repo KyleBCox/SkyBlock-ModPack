@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.xerothium",
+  "colors": [
+    "e6eeff",
+    "e6eeff"
+  ],
+  "ingredient": {
+    "item": "envirocore:xerothium_crystal"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.tiny_potato",
+  "colors": [
+    "e0a19d",
+    "e0a19d"
+  ],
+  "ingredient": {
+    "item": "botania:tiny_potato"
+  }
+}

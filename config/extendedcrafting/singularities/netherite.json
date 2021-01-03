@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.netherite",
+  "colors": [
+    "464246",
+    "464246"
+  ],
+  "ingredient": {
+    "item": "compressium:netherite_9"
+  }
+}

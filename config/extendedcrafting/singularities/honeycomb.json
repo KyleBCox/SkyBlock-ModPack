@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.honeycomb",
+  "colors": [
+    "e78c16",
+    "e78c16"
+  ],
+  "ingredient": {
+    "item": "minecraft:honeycomb"
+  }
+}

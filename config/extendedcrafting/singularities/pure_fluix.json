@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.pure_fluix",
+  "colors": [
+    "905ccb",
+    "905ccb"
+  ],
+  "ingredient": {
+    "item": "appliedenergistics2:purified_fluix_crystal"
+  }
+}

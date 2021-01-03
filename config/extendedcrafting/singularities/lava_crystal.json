@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.lava_crystal",
+  "colors": [
+    "ec9727",
+    "ec9727"
+  ],
+  "ingredient": {
+    "item": "armorplus:lava_crystal"
+  }
+}

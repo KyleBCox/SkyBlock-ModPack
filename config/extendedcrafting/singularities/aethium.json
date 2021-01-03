@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.aethium",
+  "colors": [
+    "282828",
+    "282828"
+  ],
+  "ingredient": {
+    "item": "envirocore:aethium_crystal"
+  }
+}

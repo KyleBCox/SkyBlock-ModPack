@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.infused_alloy",
+  "colors": [
+    "d9021a",
+    "d9021a"
+  ],
+  "ingredient": {
+    "item": "mekanism:alloy_infused"
+  }
+}

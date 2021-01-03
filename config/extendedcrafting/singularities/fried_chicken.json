@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.fried_chicken",
+  "colors": [
+    "d48426",
+    "d48426"
+  ],
+  "ingredient": {
+    "item": "pamhc2foodcore:friedchickenitem"
+  }
+}
