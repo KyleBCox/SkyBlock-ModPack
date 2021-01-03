@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.cake",
+  "colors": [
+    "fcf5df",
+    "fcf5df"
+  ],
+  "ingredient": {
+    "item": "minecraft:cake"
+  }
+}

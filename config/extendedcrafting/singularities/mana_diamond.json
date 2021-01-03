@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.mana_diamond",
+  "colors": [
+    "9ef6fc",
+    "9ef6fc"
+  ],
+  "ingredient": {
+    "item": "botania:mana_diamond"
+  }
+}

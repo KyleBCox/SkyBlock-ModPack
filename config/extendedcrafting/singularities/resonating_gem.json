@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.resonating_gem",
+  "colors": [
+    "007dae",
+    "007dae"
+  ],
+  "ingredient": {
+    "item": "astralsorcery:resonating_gem"
+  }
+}

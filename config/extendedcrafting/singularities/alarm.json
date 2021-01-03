@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.alarm",
+  "colors": [
+    "690a04",
+    "690a04"
+  ],
+  "ingredient": {
+    "item": "mekanism:industrial_alarm"
+  }
+}

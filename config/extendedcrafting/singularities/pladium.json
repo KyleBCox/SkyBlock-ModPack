@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.pladium",
+  "colors": [
+    "17223b",
+    "17223b"
+  ],
+  "ingredient": {
+    "item": "envirocore:pladium_crystal"
+  }
+}

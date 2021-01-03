@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.frost_crystal",
+  "colors": [
+    "a3f0fc",
+    "a3f0fc"
+  ],
+  "ingredient": {
+    "item": "armorplus:frost_crystal"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.dimensional_shard",
+  "colors": [
+    "80cccb",
+    "80cccb"
+  ],
+  "ingredient": {
+    "item": "rftoolsbase:dimensionalshard"
+  }
+}

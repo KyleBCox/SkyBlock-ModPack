@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.dragonstone",
+  "colors": [
+    "f17cbc",
+    "f17cbc"
+  ],
+  "ingredient": {
+    "item": "botania:dragonstone"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.energy_tablet",
+  "colors": [
+    "6cfbb2",
+    "6cfbb2"
+  ],
+  "ingredient": {
+    "item": "mekanism:energy_tablet"
+  }
+}

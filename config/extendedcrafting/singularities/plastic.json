@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.plastic",
+  "colors": [
+    "b2b2b2",
+    "b2b2b2"
+  ],
+  "ingredient": {
+    "item": "industrialforegoing:plastic"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.constantan",
+  "colors": [
+    "f1c66a",
+    "f1c66a"
+  ],
+  "ingredient": {
+    "item": "thermal:constantan_ingot"
+  }
+}

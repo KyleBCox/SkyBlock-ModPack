@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.nanorite",
+  "colors": [
+    "6014bb",
+    "6014bb"
+  ],
+  "ingredient": {
+    "item": "envirocore:nanorite_crystal"
+  }
+}

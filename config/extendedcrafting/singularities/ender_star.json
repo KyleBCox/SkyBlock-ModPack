@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.ender_star",
+  "colors": [
+    "6ba6ff",
+    "6ba6ff"
+  ],
+  "ingredient": {
+    "item": "extendedcrafting:ender_star"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.lumium",
+  "colors": [
+    "e4efbe",
+    "e4efbe"
+  ],
+  "ingredient": {
+    "item": "thermal:lumium_ingot"
+  }
+}

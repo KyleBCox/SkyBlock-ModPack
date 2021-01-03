@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.ionite",
+  "colors": [
+    "77d6fc",
+    "77d6fc"
+  ],
+  "ingredient": {
+    "item": "envirocore:ionite_crystal"
+  }
+}

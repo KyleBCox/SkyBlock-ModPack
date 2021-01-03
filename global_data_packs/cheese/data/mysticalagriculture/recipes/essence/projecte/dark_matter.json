@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "xxx",
+    "x x",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "mysticalagriculture:dark_matter_essence"
+    }
+  },
+  "result": {
+    "item": "projecte:dark_matter",
+   	"count": 4
+  }
+}

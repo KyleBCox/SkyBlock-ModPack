@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.blood_shard",
+  "colors": [
+    "c14239",
+    "c14239"
+  ],
+  "ingredient": {
+    "item": "bloodmagic:weakbloodshard"
+  }
+}
