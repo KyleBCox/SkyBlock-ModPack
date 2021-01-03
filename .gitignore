@@ -8,8 +8,9 @@ ESM/
 backups/
 scripts/
 woot/
+crash-reports/
 patchouli_data.json
-realms_persistance.json
+realms_persistence.json
 BotaniaVars.dat
 reauth.toml
 usercache.json
