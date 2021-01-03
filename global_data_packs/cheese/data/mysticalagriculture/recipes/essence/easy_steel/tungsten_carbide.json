@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "xxx",
+    "x x",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "mysticalagriculture:tungsten_carbide_essence"
+    }
+  },
+  "result": {
+    "item": "easy_steel:tungsten_carbide_ingot",
+   	"count": 4
+  }
+}

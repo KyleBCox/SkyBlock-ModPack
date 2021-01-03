@@ -1,0 +1,51 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalcustomization:alfsteel"
+    }
+  ],
+  "input": {
+    "type": "mysticalagriculture:crop_component",
+    "component": "seed",
+    "crop": "mysticalcustomization:alfsteel"
+  },
+  "ingredients": [
+    {
+      "item": "mythicbotany:alfsteel_ingot"
+    },
+    {
+      "type": "mysticalagriculture:crop_component",
+      "component": "essence",
+      "crop": "mysticalcustomization:alfsteel"
+    },
+    {
+      "item": "mythicbotany:alfsteel_ingot"
+    },
+    {
+      "type": "mysticalagriculture:crop_component",
+      "component": "essence",
+      "crop": "mysticalcustomization:alfsteel"
+    },
+    {
+      "item": "mythicbotany:alfsteel_ingot"
+    },
+    {
+      "type": "mysticalagriculture:crop_component",
+      "component": "essence",
+      "crop": "mysticalcustomization:alfsteel"
+    },
+    {
+      "item": "mythicbotany:alfsteel_ingot"
+    },
+    {
+      "type": "mysticalagriculture:crop_component",
+      "component": "essence",
+      "crop": "mysticalcustomization:alfsteel"
+    }
+  ],
+  "result": {
+    "item": "mysticalagriculture:alfsteel_seeds"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "xxx",
+    "x x",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "mysticalagriculture:hardened_steel_essence"
+    }
+  },
+  "result": {
+    "item": "easy_steel:hardened_steel_ingot",
+   	"count": 4
+  }
+}
