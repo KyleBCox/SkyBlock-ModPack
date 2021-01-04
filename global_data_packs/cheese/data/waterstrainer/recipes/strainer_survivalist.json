@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"FSF",
+		"SNS",
+		"FSF"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:stick"
+		},
+		"N": {
+			"item": "waterstrainer:string_mesh"
+		},
+		"F": {
+			"item": "immersiveengineering:hemp_fiber"
+		}
+	},
+	"result": {
+		"item": "waterstrainer:strainer_survivalist"
+	}
+}

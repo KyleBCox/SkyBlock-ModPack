@@ -1,0 +1,37 @@
+{
+  "type": "mythicbotany:infusion",
+  "group": "infuser",
+  "output": {
+    "item": "immersiveengineering:rs_engineering",
+	"count": 2
+  },
+  "mana": 500000,
+  "ingredients": [
+    {
+      "item": "immersiveengineering:sheetmetal_iron"
+    },
+	{
+      "tag": "forge:dusts/redstone"
+    },
+	{
+      "item": "minecraft:comparator"
+    },
+	{
+      "item": "minecraft:repeater"
+    },
+	{
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+	{
+      "item": "immersiveengineering:connector_redstone"
+    },
+	{
+      "item": "immersiveengineering:redstone_breaker"
+    },
+	{
+      "item": "immersiveengineering:connector_bundled"
+    }
+  ],
+  "fromColor": 16711821,
+  "toColor": 16750080
+}

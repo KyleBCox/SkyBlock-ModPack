@@ -1,0 +1,10 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "tag": "minecraft:saplings"
+  },
+  "output": {
+    "item": "botania:living_root"
+  },
+  "mana": 1500
+}

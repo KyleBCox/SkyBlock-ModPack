@@ -1,0 +1,37 @@
+{
+  "type": "mythicbotany:infusion",
+  "group": "infuser",
+  "output": {
+    "item": "immersiveengineering:light_engineering",
+	"count": 2
+  },
+  "mana": 500000,
+  "ingredients": [
+    {
+      "item": "botania:rune_air"
+    },
+	{
+      "item": "immersiveengineering:circuit_board"
+    },
+	{
+      "item": "immersiveengineering:electron_tube"
+    },
+	{
+      "item": "immersiveengineering:connector_hv"
+    },
+	{
+      "item": "immersiveengineering:wirecoil_steel"
+    },
+	{
+      "item": "botania:spark"
+    },
+	{
+      "item": "immersiveengineering:component_iron"
+    },
+	{
+      "item": "immersiveengineering:alu_scaffolding_standard"
+    }
+  ],
+  "fromColor": 16711821,
+  "toColor": 16750080
+}

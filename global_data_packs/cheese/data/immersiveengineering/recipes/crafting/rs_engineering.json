@@ -1,0 +1,34 @@
+{
+  "type": "botania:terra_plate",
+  "mana": 500000,
+  "ingredients": [
+    {
+      "item": "immersiveengineering:sheetmetal_iron"
+    },
+	{
+      "tag": "forge:dusts/redstone"
+    },
+	{
+      "item": "minecraft:comparator"
+    },
+	{
+      "item": "minecraft:repeater"
+    },
+	{
+      "item": "immersiveengineering:wirecoil_redstone"
+    },
+	{
+      "item": "immersiveengineering:connector_redstone"
+    },
+	{
+      "item": "immersiveengineering:redstone_breaker"
+    },
+	{
+      "item": "immersiveengineering:connector_bundled"
+    }
+  ],
+  "result": {
+    "item": "immersiveengineering:rs_engineering",
+	"count": 2
+  }
+}

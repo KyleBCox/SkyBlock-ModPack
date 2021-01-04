@@ -1,0 +1,34 @@
+{
+  "type": "botania:terra_plate",
+  "mana": 500000,
+  "ingredients": [
+    {
+      "item": "botania:rune_air"
+    },
+	{
+      "item": "immersiveengineering:circuit_board"
+    },
+	{
+      "item": "immersiveengineering:electron_tube"
+    },
+	{
+      "item": "immersiveengineering:connector_hv"
+    },
+	{
+      "item": "immersiveengineering:wirecoil_steel"
+    },
+	{
+      "item": "botania:spark"
+    },
+	{
+      "item": "immersiveengineering:component_iron"
+    },
+	{
+      "item": "immersiveengineering:alu_scaffolding_standard"
+    }
+  ],
+  "result": {
+    "item": "immersiveengineering:light_engineering",
+	"count": 2
+  }
+}

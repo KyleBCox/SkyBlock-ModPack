@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"WRW",
+		"RMR",
+		"WRW"
+	],
+	"key": {
+		"R": {
+			"item": "kubejs:obsidian_rod"
+		},
+		"W": {
+			"tag": "forge:wires/steel"
+		},
+		"M": {
+			"item": "waterstrainer:iron_mesh"
+		}
+	},
+	"result": {
+		"item": "waterstrainer:obsidian_mesh"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" # ",
+		"#M#",
+		" # "
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:iron_bars"
+		},
+		"M": {
+			"item": "waterstrainer:string_mesh"
+		}
+	},
+	"result": {
+		"item": "waterstrainer:iron_mesh"
+	}
+}

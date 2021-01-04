@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [" if", " si", "s  "],
+	"key": {
+		"s": {
+			"tag": "forge:rods/wooden"
+		},
+		"i": {
+			"tag": "forge:ingots/iron"
+		},
+		"f": {
+			"item": "mysticalworld:silk_thread"
+		}
+	},
+	"result": {
+		"item": "immersiveengineering:hammer"
+	}
+}

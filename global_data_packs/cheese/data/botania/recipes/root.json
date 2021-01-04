@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "botania:living_root"
+    },
+	{
+      "item": "botania:living_root"
+    },
+	{
+      "item": "botania:living_root"
+    },
+	{
+      "item": "botania:living_root"
+    }
+  ],
+  "result": {
+    "item": "botania:root",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "ABBBA",
+    "CDDDA",
+    "CEFGH",
+    "CIIIA",
+    "ABBBA"
+  ],
+  "key": {
+    "A": {
+      "item": "botania:livingwood"
+    },
+    "B": {
+      "item": "botania:glimmering_livingwood"
+    },
+    "C": {
+      "item": "botania:green_petal_block"
+    },
+    "D": {
+      "item": "botania:mana_powder"
+    },
+    "E": {
+      "item": "minecraft:golden_carrot"
+    },
+    "F": {
+      "item": "botania:manastar"
+    },
+    "G": {
+      "item": "envirocore:laser_lens_holder"
+    },
+    "H": {
+      "item": "botania:lens_bounce"
+    },
+    "I": {
+      "item": "botania:green_floating_flower"
+    }
+  },
+  "result": {
+    "item": "botania:mana_spreader"
+  }
+}

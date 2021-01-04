@@ -1,0 +1,34 @@
+{
+  "type": "botania:terra_plate",
+  "mana": 500000,
+  "ingredients": [
+    {
+      "item": "immersiveengineering:ingot_hop_graphite"
+    },
+	{
+      "item": "immersiveengineering:circuit_board"
+    },
+	{
+      "item": "immersiveengineering:electron_tube"
+    },
+	{
+      "item": "immersiveengineering:connector_hv"
+    },
+	{
+      "item": "immersiveengineering:wirecoil_steel"
+    },
+	{
+      "item": "immersiveengineering:light_engineering"
+    },
+	{
+      "item": "immersiveengineering:component_steel"
+    },
+	{
+      "item": "immersiveengineering:steel_scaffolding_standard"
+    }
+  ],
+  "result": {
+    "item": "immersiveengineering:heavy_engineering",
+	"count": 2
+  }
+}

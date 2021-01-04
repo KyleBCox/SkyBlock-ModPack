@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SN ",
+		"N s",
+		" s "],
+	"key": {
+		"s": {
+			"tag": "forge:rods/wooden"
+		},
+		"N": {
+			"tag": "forge:nuggets/iron"
+		},
+		"S": {
+			"item": "minecraft:shears"
+		}
+	},
+	"result": {
+		"item": "immersiveengineering:wirecutter"
+	}
+}

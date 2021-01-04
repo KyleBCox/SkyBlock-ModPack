@@ -1,0 +1,37 @@
+{
+	"type": "botania:runic_altar",
+	"output": {
+	  "item": "waterstrainer:strainer_survivalist_reinforced",
+	  "count": 1
+	},
+	"mana": 10000,
+	"ingredients": [
+	  {
+		"item": "waterstrainer:obsidian_mesh"
+	  },
+	  {
+		"tag": "forge:rods/diamond"
+	  },
+	  {
+		"tag": "forge:rods/diamond"
+	  },
+	  {
+		"tag": "forge:rods/diamond"
+	  },
+	  {
+		"tag": "forge:rods/diamond"
+	  },
+	  {
+		"item": "armorplus:en_diamond"
+	  },
+	  {
+		"item": "armorplus:en_diamond"
+	  },
+	  {
+		"item": "armorplus:en_diamond"
+	  },
+	  {
+		"item": "armorplus:en_diamond"
+	  }
+	]
+  }
