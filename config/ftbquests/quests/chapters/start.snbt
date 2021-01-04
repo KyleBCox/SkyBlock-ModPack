@@ -98,6 +98,7 @@
 		{
 			x: 2.0d,
 			y: 2.5d,
+			dependencies: [I;19],
 			id: 21,
 			tasks: [{
 				id: 22,
@@ -108,6 +109,7 @@
 		{
 			x: 4.0d,
 			y: 2.5d,
+			dependencies: [I;21],
 			id: 23,
 			tasks: [{
 				id: 24,
@@ -118,6 +120,7 @@
 		{
 			x: 6.0d,
 			y: 2.5d,
+			dependencies: [I;23],
 			id: 25,
 			tasks: [{
 				id: 26,
@@ -133,6 +136,7 @@
 		{
 			x: 7.5d,
 			y: 2.5d,
+			dependencies: [I;25],
 			id: 28,
 			tasks: [{
 				id: 29,
@@ -143,6 +147,7 @@
 		{
 			x: 9.5d,
 			y: 2.5d,
+			dependencies: [I;28],
 			id: 30,
 			tasks: [{
 				id: 31,
@@ -177,6 +182,18 @@
 				id: 36,
 				type: "item",
 				item: "botania:mana_spreader"
+			}]
+		},
+		{
+			x: -3.5d,
+			y: -0.5d,
+			dependencies: [I;12],
+			id: 39,
+			tasks: [{
+				id: 40,
+				type: "item",
+				item: "botania:pebble",
+				count: 256L
 			}]
 		}
 	]

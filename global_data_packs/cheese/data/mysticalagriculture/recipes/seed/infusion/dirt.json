@@ -1,0 +1,37 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "mysticalagriculture:dirt_seeds",
+    "count": 1
+  },
+  "mana": 12500,
+  "ingredients": [
+    {
+      "item": "compressium:dirt_2"
+    },
+    {
+      "item": "compressium:dirt_2"
+    },
+    {
+      "item": "compressium:dirt_2"
+    },
+    {
+      "item": "compressium:dirt_2"
+    },
+    {
+      "item": "botania:rune_earth"
+    },
+	{
+      "item": "botania:rune_water"
+    },
+	{
+      "item": "mysticalagriculture:inferium_block"
+    },
+	{
+      "item": "mysticalagriculture:inferium_block"
+    },
+	{
+      "tag": "forge:seeds"
+    }
+  ]
+}
