@@ -16,3 +16,10 @@ reauth.toml
 usercache.json
 usernamecache.json
 TrashSlotSaveState.json
+config.json
+options.json
+config/jei/bookmarks.ini
+config/jei/ingredient-list-mod-sort-order.ini
+screenshots
+screenshots/*
+config/environmental/*
