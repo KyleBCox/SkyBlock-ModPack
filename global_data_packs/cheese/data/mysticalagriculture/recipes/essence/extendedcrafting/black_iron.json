@@ -11,7 +11,6 @@
     }
   },
   "result": {
-    "item": "extendedcrafting:black_iron_ingot",
-   	"count": 4
+    "item": "extendedcrafting:black_iron_nugget"
   }
 }
