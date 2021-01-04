@@ -6,9 +6,10 @@
 	default_quest_shape: "",
 	quests: [
 		{
-			x: 1.5d,
-			y: -4.0d,
-			description: ["Easier string anyone???"],
+			x: -7.0d,
+			y: -0.5d,
+			description: ["Easier string anyone, break grass???"],
+			dependencies: [I;32],
 			id: 7,
 			tasks: [{
 				id: 8,
@@ -17,8 +18,8 @@
 			}]
 		},
 		{
-			x: -2.5d,
-			y: -4.0d,
+			x: -0.5d,
+			y: 5.0d,
 			description: ["Living root can be used as bonemeal but dont use it all!!!"],
 			id: 9,
 			tasks: [{
@@ -36,7 +37,7 @@
 		},
 		{
 			x: -2.5d,
-			y: -2.0d,
+			y: 4.0d,
 			dependencies: [I;9],
 			id: 12,
 			tasks: [{
@@ -53,8 +54,8 @@
 			}]
 		},
 		{
-			x: -2.5d,
-			y: -0.5d,
+			x: -4.5d,
+			y: 4.0d,
 			dependencies: [I;12],
 			id: 15,
 			tasks: [
@@ -87,7 +88,8 @@
 		},
 		{
 			x: 0.0d,
-			y: 2.5d,
+			y: 2.0d,
+			dependencies: [I;39],
 			id: 19,
 			tasks: [{
 				id: 20,
@@ -97,7 +99,7 @@
 		},
 		{
 			x: 2.0d,
-			y: 2.5d,
+			y: 2.0d,
 			dependencies: [I;19],
 			id: 21,
 			tasks: [{
@@ -107,8 +109,8 @@
 			}]
 		},
 		{
-			x: 4.0d,
-			y: 2.5d,
+			x: 3.5d,
+			y: 2.0d,
 			dependencies: [I;21],
 			id: 23,
 			tasks: [{
@@ -118,9 +120,9 @@
 			}]
 		},
 		{
-			x: 6.0d,
-			y: 2.5d,
-			dependencies: [I;23],
+			x: 4.5d,
+			y: 1.0d,
+			dependencies: [I;55],
 			id: 25,
 			tasks: [{
 				id: 26,
@@ -134,8 +136,8 @@
 			}]
 		},
 		{
-			x: 7.5d,
-			y: 2.5d,
+			x: 6.5d,
+			y: 2.0d,
 			dependencies: [I;25],
 			id: 28,
 			tasks: [{
@@ -145,8 +147,8 @@
 			}]
 		},
 		{
-			x: 9.5d,
-			y: 2.5d,
+			x: 7.5d,
+			y: 3.0d,
 			dependencies: [I;28],
 			id: 30,
 			tasks: [{
@@ -156,8 +158,8 @@
 			}]
 		},
 		{
-			x: -0.5d,
-			y: -0.5d,
+			x: -6.0d,
+			y: 2.0d,
 			dependencies: [I;15],
 			id: 32,
 			tasks: [{
@@ -174,9 +176,9 @@
 			}]
 		},
 		{
-			x: 6.5d,
-			y: 1.5d,
-			dependencies: [I;25],
+			x: 4.5d,
+			y: 3.0d,
+			dependencies: [I;50],
 			id: 35,
 			tasks: [{
 				id: 36,
@@ -185,15 +187,177 @@
 			}]
 		},
 		{
-			x: -3.5d,
-			y: -0.5d,
+			x: -2.5d,
+			y: 2.0d,
 			dependencies: [I;12],
 			id: 39,
-			tasks: [{
-				id: 40,
+			tasks: [
+				{
+					id: 40,
+					type: "item",
+					item: "botania:pebble",
+					count: 256L
+				},
+				{
+					id: 41,
+					type: "item",
+					item: "minecraft:cobblestone",
+					count: 64L
+				}
+			],
+			rewards: [{
+				id: 42,
 				type: "item",
-				item: "botania:pebble",
-				count: 256L
+				item: "compressium:cobblestone_4"
+			}]
+		},
+		{
+			x: 1.0d,
+			y: -1.0d,
+			dependencies: [I;
+				45,
+				47
+			],
+			id: 43,
+			tasks: [{
+				id: 44,
+				type: "item",
+				item: "minecraft:bucket"
+			}],
+			rewards: [{
+				id: 64,
+				type: "item",
+				item: "emendatusenigmatica:copper_plate"
+			}]
+		},
+		{
+			x: -1.0d,
+			y: -0.5d,
+			dependencies: [I;57],
+			id: 45,
+			tasks: [
+				{
+					id: 46,
+					type: "item",
+					title: "Any forge:plates/iron",
+					item: {
+						id: "itemfilters:tag",
+						Count: true,
+						tag: {
+							value: "forge:plates/iron"
+						}
+					}
+				},
+				{
+					id: 54,
+					type: "item",
+					item: {
+						id: "immersiveengineering:hammer",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		},
+		{
+			x: -1.0d,
+			y: -1.5d,
+			dependencies: [I;57],
+			id: 47,
+			tasks: [
+				{
+					id: 48,
+					type: "item",
+					item: "immersiveengineering:wire_copper",
+					count: 3L
+				},
+				{
+					id: 49,
+					type: "item",
+					item: {
+						id: "immersiveengineering:wirecutter",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		},
+		{
+			x: 3.5d,
+			y: 4.0d,
+			dependencies: [I;
+				23,
+				52
+			],
+			id: 50,
+			tasks: [{
+				id: 51,
+				type: "item",
+				item: "botania:livingwood"
+			}]
+		},
+		{
+			x: 1.5d,
+			y: 4.0d,
+			dependencies: [I;9],
+			id: 52,
+			tasks: [{
+				id: 53,
+				type: "item",
+				item: "botania:root"
+			}]
+		},
+		{
+			x: 3.5d,
+			y: 0.0d,
+			dependencies: [I;
+				43,
+				23
+			],
+			id: 55,
+			tasks: [{
+				id: 56,
+				type: "item",
+				item: "immersiveengineering:concrete"
+			}]
+		},
+		{
+			x: -2.5d,
+			y: -1.0d,
+			dependencies: [I;61],
+			id: 57,
+			tasks: [{
+				id: 58,
+				type: "item",
+				item: "waterstrainer:strainer_base"
+			}]
+		},
+		{
+			x: -3.5d,
+			y: 1.0d,
+			id: 59,
+			tasks: [{
+				id: 60,
+				type: "item",
+				item: "botania:fertilizer"
+			}]
+		},
+		{
+			x: -4.5d,
+			y: -0.5d,
+			dependencies: [I;
+				59,
+				32
+			],
+			id: 61,
+			tasks: [{
+				id: 62,
+				type: "item",
+				item: "botania:flower_bag"
 			}]
 		}
 	]
