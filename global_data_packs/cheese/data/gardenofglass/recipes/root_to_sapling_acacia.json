@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "RRR",
+    "   ",
+	"   "
+  ],
+  "key": {
+    "R": {
+      "item": "botania:living_root"
+    }
+  },
+  "result": {
+    "item": "minecraft:acacia_sapling"
+  }
+}

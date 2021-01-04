@@ -1,0 +1,37 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "cursedearth:cursed_earth",
+    "count": 3
+  },
+  "mana": 50000,
+  "ingredients": [
+    {
+      "item": "tombstone:grave_dust"
+    },
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "compressium:dirt_2"
+    },
+	{
+      "item": "minecraft:string"
+    },
+	{
+      "item": "minecraft:rotten_flesh"
+    },
+	{
+      "item": "minecraft:bone"
+    },
+	{
+      "item": "mysticalagriculture:inferium_essence"
+    }
+  ]
+}

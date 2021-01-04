@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "xxx",
+    "x x",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "mysticalagriculture:graphite_essence"
+    }
+  },
+  "result": {
+    "item": "bigreactors:graphite_ingot"
+  }
+}

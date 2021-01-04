@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:diamond_axe",
+		"botania:manasteel_axe",
+		"botania:elementium_axe",
+		"mysticalagradditions:inferium_paxel",
+		"mysticalagradditions:prudentium_paxel",
+		"mysticalagriculture:inferium_axe",
+		"mysticalagriculture:prudentium_axe",
+		"mysticalworld:amethyst_axe",
+		"mysticalworld:lead_axe",
+		"mysticalworld:quicksilver_axe",
+		"naturesaura:sky_axe",
+		"pickletweaks:emerald_axe",
+		"pickletweaks:diamond_paxel",
+		"pickletweaks:emerald_paxel",
+		"powder_power:axe_redium",
+		"powder_power:paxel_redium",
+		"powder_power:axe_lapium",
+		"powder_power:paxel_lapium",
+		"mekanismtools:diamond_paxel",
+		"mekanismtools:refined_obsidian_axe",
+		"mekanismtools:refined_obsidian_paxel",
+		"mekanismtools:steel_axe",
+		"mekanismtools:steel_paxel"
+    ]
+}

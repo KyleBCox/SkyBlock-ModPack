@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:stone_axe",
+		"mysticalworld:cactus_axe",
+		"pickletweaks:flint_axe",
+		"pickletweaks:stone_paxel",
+		"pickletweaks:flint_paxel",
+		"mekanismtools:stone_paxel"
+    ]
+}

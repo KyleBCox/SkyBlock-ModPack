@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DDD",
+	"DDD"
+  ],
+  "key": {
+    "D": {
+      "tag": "forge:dusts/obsidian"
+    }
+  },
+  "result": {
+    "item": "minecraft:obsidian"
+  }
+}

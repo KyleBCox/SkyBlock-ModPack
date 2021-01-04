@@ -10,16 +10,39 @@
 <configversion>1</configversion>
 
 // Survivalist's Strainer
-<add><strainer>strainer_survivalist</strainer> <chance>30</chance> <item>minecraft:sand</item></add>
-<add><strainer>strainer_survivalist</strainer> <chance>20</chance> <item>minecraft:dirt</item></add>
-<add><strainer>strainer_survivalist</strainer> <chance>20</chance> <item>minecraft:stick</item></add>
+<add><strainer>strainer_survivalist</strainer> <chance>25</chance> <item>minecraft:sand</item></add>
+<add><strainer>strainer_survivalist</strainer> <chance>25</chance> <item>minecraft:dirt</item></add>
+<add><strainer>strainer_survivalist</strainer> <chance>12</chance> <item>minecraft:stick</item></add>
 <add><strainer>strainer_survivalist</strainer> <chance>15</chance> <item>minecraft:clay_ball</item></add>
-<add><strainer>strainer_survivalist</strainer> <chance>13</chance> <item>minecraft:gravel</item></add>
-<add><strainer>strainer_survivalist</strainer> <group>NUGGET</group> <chance>2</chance> <item>minecraft:iron_nugget</item> <subchance>75</subchance></add>
-<add><strainer>strainer_survivalist</strainer> <group>NUGGET</group> <chance>2</chance> <item>minecraft:gold_nugget</item> <subchance>25</subchance></add>
+<add><strainer>strainer_survivalist</strainer> <chance>15</chance> <item>minecraft:gravel</item></add>
+<add><strainer>strainer_survivalist</strainer> <chance>1</chance> <item>minecraft:iron_nugget</item></add>
+<add><strainer>strainer_survivalist</strainer> <chance>1</chance> <item>minecraft:gold_nugget</item></add>
 
-<copy><child>strainer_survivalist_solid</child> <parent>strainer_survivalist</parent></copy>
-<copy><child>strainer_survivalist_reinforced</child> <parent>strainer_survivalist</parent></copy>
+// Survivalist's Strainer Solid
+<add><strainer>strainer_survivalist_solid</strainer> <chance>21</chance> <item>minecraft:sand</item></add>
+<add><strainer>strainer_survivalist_solid</strainer> <chance>21</chance> <item>minecraft:dirt</item></add>
+<add><strainer>strainer_survivalist_solid</strainer> <chance>12</chance> <item>minecraft:stick</item></add>
+<add><strainer>strainer_survivalist_solid</strainer> <chance>15</chance> <item>minecraft:clay_ball</item></add>
+<add><strainer>strainer_survivalist_solid</strainer> <chance>15</chance> <item>minecraft:gravel</item></add>
+<add><strainer>strainer_survivalist_solid</strainer> <chance>1</chance> <item>minecraft:iron_nugget</item></add>
+<add><strainer>strainer_survivalist_solid</strainer> <chance>1</chance> <item>minecraft:iron_nugget</item></add>
+<add><strainer>strainer_survivalist_solid</strainer> <chance>1</chance> <item>minecraft:gold_nugget</item></add>
+<add><strainer>strainer_survivalist_solid</strainer> <chance>1</chance> <item>minecraft:gold_nugget</item></add>
+
+// Survivalist's Strainer Reinforced
+<add><strainer>strainer_survivalist_reinforced</strainer> <chance>21</chance> <item>minecraft:sand</item></add>
+<add><strainer>strainer_survivalist_reinforced</strainer> <chance>21</chance> <item>minecraft:dirt</item></add>
+<add><strainer>strainer_survivalist_reinforced</strainer> <chance>10</chance> <item>minecraft:stick</item></add>
+<add><strainer>strainer_survivalist_reinforced</strainer> <chance>12</chance> <item>minecraft:clay_ball</item></add>
+<add><strainer>strainer_survivalist_reinforced</strainer> <chance>12</chance> <item>minecraft:gravel</item></add>
+<add><strainer>strainer_survivalist_reinforced</strainer> <chance>1</chance> <item>minecraft:iron_nugget</item></add>
+<add><strainer>strainer_survivalist_reinforced</strainer> <chance>1</chance> <item>minecraft:iron_nugget</item></add>
+<add><strainer>strainer_survivalist_reinforced</strainer> <chance>1</chance> <item>minecraft:iron_nugget</item></add>
+<add><strainer>strainer_survivalist_reinforced</strainer> <chance>1</chance> <item>minecraft:gold_nugget</item></add>
+<add><strainer>strainer_survivalist_reinforced</strainer> <chance>1</chance> <item>minecraft:gold_nugget</item></add>
+<add><strainer>strainer_survivalist_reinforced</strainer> <chance>1</chance> <item>minecraft:gold_nugget</item></add>
+
+
 
 // Fisherman's Strainer
 <add><strainer>strainer_fisherman</strainer> <group>FISH</group> <chance>100</chance> <item>minecraft:cod</item> <subchance>60</subchance></add>

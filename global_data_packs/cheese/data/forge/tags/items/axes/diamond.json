@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:iron_axe",
+		"appliedenergistics2:certus_quartz_axe",
+		"appliedenergistics2:nether_quartz_axe",
+		"eidolon:cleaving_axe",
+		"immersiveengineering:axe_steel",
+		"mysticalworld:copper_axe",
+		"mysticalworld:silver_axe",
+		"mysticalworld:tin_axe",
+		"naturesaura:infused_iron_axe",
+		"pickletweaks:iron_paxel",
+		"mekanismtools:iron_paxel",
+		"mekanismtools:bronze_axe",
+		"mekanismtools:bronze_paxel",
+		"mekanismtools:lapis_lazuli_axe",
+		"mekanismtools:lapis_lazuli_paxel",
+		"mekanismtools:osmium_axe",
+		"mekanismtools:osmium_paxel",
+		"mekanismtools:refined_glowstone_axe",
+		"mekanismtools:refined_glowstone_paxel"
+    ]
+}

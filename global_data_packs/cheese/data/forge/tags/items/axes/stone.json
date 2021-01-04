@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:wooden_axe",
+		"minecraft:golden_axe",
+		"pickletweaks:wooden_paxel",
+		"pickletweaks:golden_paxel",
+		"mekanismtools:gold_paxel"
+    ]
+}

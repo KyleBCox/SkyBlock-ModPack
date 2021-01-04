@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "B B",
+    "LFL",
+	"LCL"
+  ],
+  "key": {
+    "B": {
+      "tag": "additionalbars:bars/wooden"
+    },
+	"L": {
+      "tag": "minecraft:logs"
+    },
+	"C": {
+      "tag": "forge:chests/wooden"
+    },
+	"F": {
+      "item": "botania:flower_bag"
+    }
+  },
+  "result": {
+    "item": "waterstrainer:strainer_base"
+  }
+}
