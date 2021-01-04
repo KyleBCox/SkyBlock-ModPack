@@ -1,0 +1,11 @@
+[
+  {
+	"mob": ["minecraft:bat"],
+    "minheight": 1,
+	"maxheight": 40,
+    "result": "allow"
+  },
+  {
+    "result": "deny"
+  }
+]

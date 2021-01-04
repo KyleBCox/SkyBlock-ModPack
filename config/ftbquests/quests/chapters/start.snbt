@@ -1,13 +1,14 @@
 {
 	id: 6,
 	filename: "start",
-	order_index: 2,
+	order_index: 1,
 	title: "start",
 	default_quest_shape: "",
 	quests: [
 		{
 			x: 1.5d,
 			y: -4.0d,
+			description: ["Easier string anyone???"],
 			id: 7,
 			tasks: [{
 				id: 8,
@@ -18,6 +19,7 @@
 		{
 			x: -2.5d,
 			y: -4.0d,
+			description: ["Living root can be used as bonemeal but dont use it all!!!"],
 			id: 9,
 			tasks: [{
 				id: 10,
@@ -48,6 +50,133 @@
 						value: "forge:sapling"
 					}
 				}
+			}]
+		},
+		{
+			x: -2.5d,
+			y: -0.5d,
+			dependencies: [I;12],
+			id: 15,
+			tasks: [
+				{
+					id: 16,
+					type: "item",
+					title: "Any minecraft:logs",
+					item: {
+						id: "itemfilters:tag",
+						Count: true,
+						tag: {
+							value: "minecraft:logs"
+						}
+					},
+					count: 64L,
+					only_from_crafting: true
+				},
+				{
+					id: 17,
+					type: "item",
+					item: "mysticalworld:silkworm_egg",
+					count: 8L
+				}
+			],
+			rewards: [{
+				id: 18,
+				type: "item",
+				item: "waterstrainer:string_mesh"
+			}]
+		},
+		{
+			x: 0.0d,
+			y: 2.5d,
+			id: 19,
+			tasks: [{
+				id: 20,
+				type: "item",
+				item: "botania:apothecary_default"
+			}]
+		},
+		{
+			x: 2.0d,
+			y: 2.5d,
+			id: 21,
+			tasks: [{
+				id: 22,
+				type: "item",
+				item: "botania:endoflame"
+			}]
+		},
+		{
+			x: 4.0d,
+			y: 2.5d,
+			id: 23,
+			tasks: [{
+				id: 24,
+				type: "item",
+				item: "botania:pure_daisy"
+			}]
+		},
+		{
+			x: 6.0d,
+			y: 2.5d,
+			id: 25,
+			tasks: [{
+				id: 26,
+				type: "item",
+				item: "botania:livingrock"
+			}],
+			rewards: [{
+				id: 27,
+				type: "item",
+				item: "botania:mana_diamond"
+			}]
+		},
+		{
+			x: 7.5d,
+			y: 2.5d,
+			id: 28,
+			tasks: [{
+				id: 29,
+				type: "item",
+				item: "botania:runic_altar"
+			}]
+		},
+		{
+			x: 9.5d,
+			y: 2.5d,
+			id: 30,
+			tasks: [{
+				id: 31,
+				type: "item",
+				item: "cursedearth:cursed_earth"
+			}]
+		},
+		{
+			x: -0.5d,
+			y: -0.5d,
+			dependencies: [I;15],
+			id: 32,
+			tasks: [{
+				id: 33,
+				type: "item",
+				item: "mysticalworld:silk_cocoon",
+				count: 8L
+			}],
+			rewards: [{
+				id: 34,
+				type: "item",
+				item: "mysticalworld:silk_thread",
+				count: 8
+			}]
+		},
+		{
+			x: 6.5d,
+			y: 1.5d,
+			dependencies: [I;25],
+			id: 35,
+			tasks: [{
+				id: 36,
+				type: "item",
+				item: "botania:mana_spreader"
 			}]
 		}
 	]
