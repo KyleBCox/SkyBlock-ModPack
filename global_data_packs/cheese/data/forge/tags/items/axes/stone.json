@@ -3,8 +3,8 @@
     "values": [
         "minecraft:wooden_axe",
 		"minecraft:golden_axe",
-		"minecraft:wooden_paxel",
-		"minecraft:golden_paxel",
+		"pickletweaks:wooden_paxel",
+		"pickletweaks:golden_paxel",
 		"mekanismtools:gold_paxel"
     ]
 }

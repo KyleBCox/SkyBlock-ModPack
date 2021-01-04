@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:netherite_axe",
+		"bloodmagic:soulaxe",
+		"gobber2:gobber2_axe",
+		"gobber2:gobber2_tree_axe",
+		"gobber2:gobber2_paxel",
+		"mysticalagradditions:tertium_paxel",
+		"mysticalagradditions:imperium_paxel",
+		"mysticalagriculture:tertium_axe",
+		"mysticalagriculture:imperium_axe",
+		"pickletweaks:netherite_paxel",
+		"powder_power:axe_gemium",
+		"powder_power:paxel_gemium",
+		"mekanismtools:netherite_paxel"
+    ]
+}

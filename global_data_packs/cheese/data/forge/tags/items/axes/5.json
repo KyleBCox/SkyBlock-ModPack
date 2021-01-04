@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        "gobber2:gobber2_axe_nether",
+		"gobber2:gobber2_tree_axe_nether",
+		"gobber2:gobber2_paxel_nether",
+		"gobber2:gobber2_axe_end",
+		"gobber2:gobber2_tree_axe_end",
+		"gobber2:gobber2_paxel_end",
+		"gobber2:gobber2_paxel_stars",
+		"immersiveengineering:axe_steel",
+		"mysticalagradditions:supremium_paxel",
+		"mysticalagriculture:supremium_axe",
+		"powder_power:axe_trilium",
+		"powder_power:tree_axe_trilium",
+		"powder_power:paxel_trilium",
+		"powder_power:axe_quadrilium",
+		"powder_power:tree_axe_quadrilium",
+		"powder_power:paxel_quadrilium"
+    ]
+}
