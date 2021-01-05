@@ -46,7 +46,7 @@
 				title: "Any forge:sapling",
 				item: {
 					id: "itemfilters:tag",
-					Count: 1b,
+					Count: true,
 					tag: {
 						value: "forge:sapling"
 					}
@@ -65,7 +65,7 @@
 					title: "Any minecraft:logs",
 					item: {
 						id: "itemfilters:tag",
-						Count: 1b,
+						Count: true,
 						tag: {
 							value: "minecraft:logs"
 						}
@@ -216,7 +216,8 @@
 			y: -1.0d,
 			dependencies: [I;
 				45,
-				47
+				47,
+				100
 			],
 			id: 43,
 			tasks: [{
@@ -242,7 +243,7 @@
 					title: "Any forge:plates/iron",
 					item: {
 						id: "itemfilters:tag",
-						Count: 1b,
+						Count: true,
 						tag: {
 							value: "forge:plates/iron"
 						}
@@ -253,7 +254,7 @@
 					type: "item",
 					item: {
 						id: "immersiveengineering:hammer",
-						Count: 1b,
+						Count: true,
 						tag: {
 							Damage: 0
 						}
@@ -278,7 +279,7 @@
 					type: "item",
 					item: {
 						id: "immersiveengineering:wirecutter",
-						Count: 1b,
+						Count: true,
 						tag: {
 							Damage: 0
 						}
@@ -363,31 +364,13 @@
 		{
 			x: -1.0d,
 			y: 0.5d,
-			id: 72,
-			tasks: [{
-				id: 73,
-				type: "item",
-				title: "Any forge:cauldrons/wooden",
-				item: {
-					id: "itemfilters:tag",
-					Count: 1b,
-					tag: {
-						value: "forge:cauldrons/wooden"
-					}
-				}
-			}]
-		},
-		{
-			x: 0.0d,
-			y: 0.5d,
-			dependencies: [I;72],
 			id: 74,
 			tasks: [{
 				id: 75,
 				type: "item",
 				item: {
 					id: "ceramics:clay_bucket",
-					Count: 1b,
+					Count: true,
 					tag: {
 						fluid: "minecraft:water"
 					}
@@ -395,13 +378,54 @@
 			}]
 		},
 		{
-			x: -2.0d,
-			y: 0.5d,
-			id: 76,
+			x: 2.5d,
+			y: 5.5d,
+			dependencies: [I;50],
+			id: 94,
 			tasks: [{
-				id: 77,
+				id: 95,
 				type: "item",
-				item: "minecraft:glass_bottle"
+				item: "botania:livingwood_twig",
+				count: 2L
+			}],
+			rewards: [{
+				id: 96,
+				type: "item",
+				item: "botania:livingwood_twig"
+			}]
+		},
+		{
+			x: 4.0d,
+			y: 7.0d,
+			dependencies: [I;94],
+			id: 97,
+			tasks: [{
+				id: 98,
+				type: "item",
+				item: {
+					id: "botania:twig_wand",
+					Count: true,
+					tag: {
+						color1: 0,
+						color2: 0
+					}
+				}
+			}],
+			rewards: [{
+				id: 99,
+				type: "item",
+				item: "botania:mana_spreader"
+			}]
+		},
+		{
+			x: 1.0d,
+			y: 0.5d,
+			dependencies: [I;74],
+			id: 100,
+			tasks: [{
+				id: 101,
+				type: "item",
+				item: "cookingforblockheads:sink"
 			}]
 		}
 	]
