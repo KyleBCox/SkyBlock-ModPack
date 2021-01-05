@@ -30,7 +30,8 @@
 <add><strainer>strainer_survivalist_solid</strainer> <chance>10</chance> <item>minecraft:iron_nugget</item></add>
 <add><strainer>strainer_survivalist_solid</strainer> <chance>10</chance> <item>minecraft:gold_nugget</item></add>
 <add><strainer>strainer_survivalist_solid</strainer> <chance>10</chance> <item>emendatusenigmatica:silver_nugget</item></add>
-<add><strainer>strainer_survivalist_solid</strainer> <chance>9</chance> <item>emendatusenigmatica:zinc_nugget</item></add>
+<add><strainer>strainer_survivalist_solid</strainer> <chance>6</chance> <item>emendatusenigmatica:zinc_nugget</item></add>
+<add><strainer>strainer_survivalist_solid</strainer> <chance>3</chance> <item>minecraft:redstone</item></add>
 <add><strainer>strainer_survivalist_solid</strainer> <chance>1</chance> <item>mysticalagriculture:diamond_essence</item></add>
 
 // Survivalist's Strainer Reinforced
