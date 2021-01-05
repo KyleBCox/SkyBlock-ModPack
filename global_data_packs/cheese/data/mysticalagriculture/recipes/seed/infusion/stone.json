@@ -1,28 +1,28 @@
 {
   "type": "botania:runic_altar",
   "output": {
-    "item": "mysticalagriculture:iron_seeds",
+    "item": "mysticalagriculture:stone_seeds",
     "count": 1
   },
-  "mana": 25000,
+  "mana": 12500,
   "ingredients": [
     {
-      "tag": "forge:storage_blocks/iron"
+      "item": "compressium:stone_2"
     },
     {
-      "tag": "forge:storage_blocks/iron"
+      "item": "compressium:stone_2"
+    },
+    {
+      "item": "compressium:stone_2"
+    },
+    {
+      "item": "compressium:stone_2"
     },
     {
       "item": "botania:rune_earth"
     },
-    {
-      "item": "botania:rune_earth"
-    },
 	{
-      "item": "mysticalagriculture:stone_seeds"
-    },
-    {
-      "item": "mysticalagriculture:inferium_block"
+      "item": "botania:rune_water"
     },
 	{
       "item": "mysticalagriculture:inferium_block"
@@ -32,6 +32,9 @@
     },
 	{
       "item": "mysticalagriculture:inferium_block"
+    },
+	{
+      "item": "botania:rune_mana"
     },
 	{
       "item": "mysticalagriculture:dirt_seeds"
