@@ -46,7 +46,7 @@
 				title: "Any forge:sapling",
 				item: {
 					id: "itemfilters:tag",
-					Count: true,
+					Count: 1b,
 					tag: {
 						value: "forge:sapling"
 					}
@@ -65,13 +65,13 @@
 					title: "Any minecraft:logs",
 					item: {
 						id: "itemfilters:tag",
-						Count: true,
+						Count: 1b,
 						tag: {
 							value: "minecraft:logs"
 						}
 					},
 					count: 64L,
-					only_from_crafting: true
+					only_from_crafting: false
 				},
 				{
 					id: 17,
@@ -242,7 +242,7 @@
 					title: "Any forge:plates/iron",
 					item: {
 						id: "itemfilters:tag",
-						Count: true,
+						Count: 1b,
 						tag: {
 							value: "forge:plates/iron"
 						}
@@ -253,7 +253,7 @@
 					type: "item",
 					item: {
 						id: "immersiveengineering:hammer",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
@@ -278,7 +278,7 @@
 					type: "item",
 					item: {
 						id: "immersiveengineering:wirecutter",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
@@ -358,6 +358,50 @@
 				id: 62,
 				type: "item",
 				item: "botania:flower_bag"
+			}]
+		},
+		{
+			x: -1.0d,
+			y: 0.5d,
+			id: 72,
+			tasks: [{
+				id: 73,
+				type: "item",
+				title: "Any forge:cauldrons/wooden",
+				item: {
+					id: "itemfilters:tag",
+					Count: 1b,
+					tag: {
+						value: "forge:cauldrons/wooden"
+					}
+				}
+			}]
+		},
+		{
+			x: 0.0d,
+			y: 0.5d,
+			dependencies: [I;72],
+			id: 74,
+			tasks: [{
+				id: 75,
+				type: "item",
+				item: {
+					id: "ceramics:clay_bucket",
+					Count: 1b,
+					tag: {
+						fluid: "minecraft:water"
+					}
+				}
+			}]
+		},
+		{
+			x: -2.0d,
+			y: 0.5d,
+			id: 76,
+			tasks: [{
+				id: 77,
+				type: "item",
+				item: "minecraft:glass_bottle"
 			}]
 		}
 	]
