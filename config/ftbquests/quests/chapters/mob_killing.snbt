@@ -19,7 +19,7 @@
 				id: 5,
 				type: "item",
 				item: "minecraft:iron_ingot",
-				count: 3
+				count: 2
 			}]
 		},
 		{
@@ -32,6 +32,91 @@
 				type: "kill",
 				entity: "minecraft:bat",
 				value: 20L
+			}]
+		},
+		{
+			x: 0.0d,
+			y: -0.5d,
+			id: 79,
+			tasks: [{
+				id: 80,
+				type: "kill",
+				entity: "minecraft:creeper",
+				value: 15L
+			}],
+			rewards: [{
+				id: 84,
+				type: "item",
+				item: "minecraft:iron_ingot",
+				count: 2
+			}]
+		},
+		{
+			x: 1.0d,
+			y: -0.5d,
+			id: 81,
+			tasks: [{
+				id: 82,
+				type: "kill",
+				entity: "mekanismadditions:baby_creeper",
+				value: 15L
+			}],
+			rewards: [{
+				id: 83,
+				type: "item",
+				item: "minecraft:iron_ingot",
+				count: 2
+			}]
+		},
+		{
+			x: 2.0d,
+			y: -0.5d,
+			id: 85,
+			tasks: [{
+				id: 86,
+				type: "kill",
+				entity: "minecraft:skeleton",
+				value: 15L
+			}],
+			rewards: [{
+				id: 87,
+				type: "item",
+				item: "minecraft:iron_ingot",
+				count: 2
+			}]
+		},
+		{
+			x: -1.0d,
+			y: 0.5d,
+			id: 88,
+			tasks: [{
+				id: 89,
+				type: "kill",
+				entity: "minecraft:zombie_villager",
+				value: 15L
+			}],
+			rewards: [{
+				id: 90,
+				type: "item",
+				item: "minecraft:iron_ingot",
+				count: 2
+			}]
+		},
+		{
+			x: 2.0d,
+			y: 0.5d,
+			id: 91,
+			tasks: [{
+				id: 92,
+				type: "kill",
+				entity: "minecraft:enderman",
+				value: 15L
+			}],
+			rewards: [{
+				id: 93,
+				type: "item",
+				item: "minecraft:diamond",
+				count: 2
 			}]
 		}
 	]

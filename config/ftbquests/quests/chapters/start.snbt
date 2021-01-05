@@ -130,9 +130,9 @@
 				item: "botania:livingrock"
 			}],
 			rewards: [{
-				id: 27,
+				id: 78,
 				type: "item",
-				item: "botania:mana_diamond"
+				item: "botania:mana_pearl"
 			}]
 		},
 		{
