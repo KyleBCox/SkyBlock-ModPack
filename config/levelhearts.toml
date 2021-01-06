@@ -19,7 +19,7 @@
 	#Range: -1 ~ 1024
 	"Maximum Health" = -1
 	#The levels at which a user will gain a heart.
-	"Level Ramp" = [1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100,  105, 110, 115, 120, 125, 130, 135, 140, 145, 150, 155, 160, 165, 170, 175, 180, 185, 190, 195, 200]
+	"Level Ramp" = [1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130, 135, 140, 145, 150, 155, 160, 165, 170, 175, 180, 185, 190, 195, 200]
 	#How many hearts (not health) to take away from the user each time they die. -1 to disable.
 	#Range: -1 ~ 10
 	"Punish Health" = 1
