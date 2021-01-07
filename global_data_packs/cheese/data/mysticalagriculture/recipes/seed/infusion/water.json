@@ -1,0 +1,40 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "mysticalagriculture:water_seeds",
+    "count": 1
+  },
+  "mana": 12500,
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "botania:rune_water"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "botania:rune_water"
+    },
+    {
+      "item": "botania:rune_earth"
+    },
+	{
+      "item": "botania:rune_water"
+    },
+	{
+      "item": "mysticalagriculture:inferium_block"
+    },
+	{
+      "item": "mysticalagriculture:inferium_block"
+    },
+	{
+      "item": "mysticalagriculture:inferium_block"
+    },
+	{
+      "item": "mysticalagriculture:dirt_seeds"
+    }
+  ]
+}

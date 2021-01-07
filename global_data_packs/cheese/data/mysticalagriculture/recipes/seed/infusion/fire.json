@@ -1,0 +1,40 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "mysticalagriculture:fire_seeds",
+    "count": 1
+  },
+  "mana": 12500,
+  "ingredients": [
+    {
+      "item": "botania:rune_fire"
+    },
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "item": "botania:rune_fire"
+    },
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "item": "mysticalagriculture:water_seeds"
+    },
+	{
+      "item": "botania:rune_fire"
+    },
+	{
+      "item": "mysticalagriculture:inferium_block"
+    },
+	{
+      "item": "mysticalagriculture:inferium_block"
+    },
+	{
+      "item": "mysticalagriculture:inferium_block"
+    },
+	{
+      "item": "mysticalagriculture:stone_seeds"
+    }
+  ]
+}
